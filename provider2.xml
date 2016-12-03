@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_65" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedList">
+  <void method="add">
+   <object class="pl.ias.provider.second.model.Ogloszenie">
+    <void property="adres">
+     <object class="pl.ias.provider.second.model.Adres">
+      <void property="miasto">
+       <string>Katowice</string>
+      </void>
+      <void property="numerDomu">
+       <long>33</long>
+      </void>
+      <void property="ulica">
+       <string>Dluga</string>
+      </void>
+     </object>
+    </void>
+    <void property="autor">
+     <string>Stefan Banach</string>
+    </void>
+    <void property="numerTelefonu">
+     <string>33 221 155 346</string>
+    </void>
+    <void property="tresc">
+     <string>Super mieszkanie 3 pokojowe</string>
+    </void>
+    <void property="tytul">
+     <string>Najtaniej!! Pilne!! OKAZJA</string>
+    </void>
+   </object>
+  </void>
+   <void method="add">
+   <object class="pl.ias.provider.second.model.Ogloszenie">
+    <void property="adres">
+     <object class="pl.ias.provider.second.model.Adres">
+      <void property="miasto">
+       <string>Krako</string>
+      </void>
+      <void property="numerDomu">
+       <long>33</long>
+      </void>
+      <void property="ulica">
+       <string>Dluga222</string>
+      </void>
+     </object>
+    </void>
+    <void property="autor">
+     <string>Stefan Pooooo</string>
+    </void>
+    <void property="numerTelefonu">
+     <string>33 221 155 346</string>
+    </void>
+    <void property="tresc">
+     <string>Super mieszkanie 3 pokojowe</string>
+    </void>
+    <void property="tytul">
+     <string>Najtaniej!! Pilne!! OKAZJA</string>
+    </void>
+   </object>
+  </void>
+ <void method="add">
+   <object class="pl.ias.provider.second.model.Ogloszenie">
+    <void property="adres">
+     <object class="pl.ias.provider.second.model.Adres">
+      <void property="miasto">
+       <string>Krako</string>
+      </void>
+      <void property="numerDomu">
+       <long>33</long>
+      </void>
+      <void property="ulica">
+       <string>Dluga222</string>
+      </void>
+     </object>
+    </void>
+    <void property="autor">
+     <string>Stefan Banach</string>
+    </void>
+    <void property="numerTelefonu">
+     <string>33 221 155 346</string>
+    </void>
+    <void property="tresc">
+     <string>Super mieszkanie 3 pokojowe</string>
+    </void>
+    <void property="tytul">
+     <string>Najtaniej!! Pilne!! OKAZJA</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

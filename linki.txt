@@ -1,0 +1,7 @@
+http://localhost:8080/Provider1/xmlSource?xmlSource=/home/michal/provider1.xml
+http://localhost:8080/Provider2/xmlSource?xmlSource=/home/michal/provider2.xml
+
+http://localhost:8080/Provider1/annoucements
+http://localhost:8080/Provider2/ogloszenia
+
+http://localhost:8080/Hub/annoucements

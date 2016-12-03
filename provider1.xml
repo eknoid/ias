@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_65" class="java.beans.XMLDecoder">
+ <object class="java.util.LinkedList">
+  <void method="add">
+   <object class="pl.ias.provider.first.model.Announcement">
+    <void property="address">
+     <string>Wroclaw, Rynek 2/1</string>
+    </void>
+    <void property="agency">
+     <object class="pl.ias.provider.first.model.Agency">
+      <void property="address">
+       <string>Warszawa, Rynek 32/22</string>
+      </void>
+      <void property="name">
+       <string>Mieszkania - Mieszko</string>
+      </void>
+      <void property="phoneNumber">
+       <string>33-222-111-222</string>
+      </void>
+     </object>
+    </void>
+    <void property="content">
+     <string>Super mieszkanie</string>
+    </void>
+    <void property="price">
+     <long>300000</long>
+    </void>
+    <void property="roomQuantity">
+     <long>2</long>
+    </void>
+    <void property="surface">
+     <long>30</long>
+    </void>
+    <void property="topic">
+     <string>Super okazja!</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="pl.ias.provider.first.model.Announcement">
+    <void property="address">
+     <string>Wroclaw, Rynek 222/1</string>
+    </void>
+    <void property="agency">
+     <object class="pl.ias.provider.first.model.Agency">
+      <void property="address">
+       <string>Warszawa22, Rynek 32/22</string>
+      </void>
+      <void property="name">
+       <string>Mieszkan23323ia - Mieszko</string>
+      </void>
+      <void property="phoneNumber">
+       <string>33-323222-111-222</string>
+      </void>
+     </object>
+    </void>
+    <void property="content">
+     <string>Super3232 mieszkanie</string>
+    </void>
+    <void property="price">
+     <long>300000</long>
+    </void>
+    <void property="roomQuantity">
+     <long>2</long>
+    </void>
+    <void property="surface">
+     <long>30</long>
+    </void>
+    <void property="topic">
+     <string>Super okazja!</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
